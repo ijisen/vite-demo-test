@@ -1,0 +1,18 @@
+/* Element Chalk Variables */
+@use 'sass:math';
+@use 'sass:map';
+
+/* just override what you need */
+$--colors: (
+    'primary': (
+        'base': #f00,
+    ),
+);
+$--font-path: 'node_modules/element-plus/packages/theme-chalk/src/fonts';
+@import 'node_modules/element-plus/packages/theme-chalk/src/index';
+
+
+.color-primary {
+  color: map.get($--colors, 'primary', 'base');
+}
+

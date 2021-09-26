@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdd0b0ea-2e51-438b-8215-b05b29a1a318" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yWn3gZkYb6LguLXA5JGEPfEngj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdd0b0ea-2e51-438b-8215-b05b29a1a318" name="Default Changelist" comment="" />
+      <created>1632376013426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632376013426</updated>
+      <workItem from="1632376014538" duration="3226000" />
+      <workItem from="1632385681871" duration="4848000" />
+      <workItem from="1632444265445" duration="5685000" />
+      <workItem from="1632635609121" duration="13175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main.js.map" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/store/global.js" />
+        <option value="$PROJECT_DIR$/src/store/userInfo.js.map" />
+        <option value="$PROJECT_DIR$/src/store/userInfo.js" />
+        <option value="$PROJECT_DIR$/src/store/global.js.map" />
+        <option value="$PROJECT_DIR$/src/utils/localToken.js" />
+        <option value="$PROJECT_DIR$/src/utils/request.js" />
+        <option value="$PROJECT_DIR$/src/utils/store.js" />
+        <option value="$PROJECT_DIR$/src/utils/request.js.map" />
+        <option value="$PROJECT_DIR$/src/utils/store.js.map" />
+        <option value="$PROJECT_DIR$/src/utils/localToken.js.map" />
+        <option value="$PROJECT_DIR$/src/utils/storage.js" />
+        <option value="$PROJECT_DIR$/src/utils/storage.js.map" />
+        <option value="$PROJECT_DIR$/src/config/settings.js" />
+        <option value="$PROJECT_DIR$/src/config/store.js.map" />
+        <option value="$PROJECT_DIR$/src/config/settings.js.map" />
+        <option value="$PROJECT_DIR$/src/config/store.js" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
+        <option value="$PROJECT_DIR$/src/router/index.js.map" />
+        <option value="$PROJECT_DIR$/src/locales/zh-CN.js" />
+        <option value="$PROJECT_DIR$/src/locales/en-US.js" />
+        <option value="$PROJECT_DIR$/src/locales/en-US.js.map" />
+        <option value="$PROJECT_DIR$/src/locales/zh-CN.js.map" />
+        <option value="$PROJECT_DIR$/src/services/user.js.map" />
+        <option value="$PROJECT_DIR$/src/services/basic.js" />
+        <option value="$PROJECT_DIR$/src/services/user.js" />
+        <option value="$PROJECT_DIR$/src/services/basic.js.map" />
+        <option value="$PROJECT_DIR$/src/locales/en-US/button.js.map" />
+        <option value="$PROJECT_DIR$/src/locales/en-US/button.js" />
+        <option value="$PROJECT_DIR$/src/locales/zh-CN/button.js.map" />
+        <option value="$PROJECT_DIR$/src/locales/zh-CN/button.js" />
+        <option value="$PROJECT_DIR$/src/plugins/i18n/config.js.map" />
+        <option value="$PROJECT_DIR$/src/plugins/i18n/config.js" />
+        <option value="$PROJECT_DIR$/src/plugins/i18n/index.js" />
+        <option value="$PROJECT_DIR$/src/plugins/i18n/index.js.map" />
+        <option value="$PROJECT_DIR$/src/plugins/element-plus/index.js.map" />
+        <option value="$PROJECT_DIR$/src/plugins/element-plus/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/Fee/locales/en-US.js" />
+        <option value="$PROJECT_DIR$/src/pages/Fee/locales/zh-CN.js" />
+        <option value="$PROJECT_DIR$/src/pages/Fee/locales/en-US.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Fee/locales/zh-CN.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Home/locales/en-US.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/locales/zh-CN.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/locales/en-US.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Home/locales/zh-CN.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/About/locales/en-US.js" />
+        <option value="$PROJECT_DIR$/src/pages/About/locales/zh-CN.js" />
+        <option value="$PROJECT_DIR$/src/pages/About/locales/en-US.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/About/locales/zh-CN.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Login/locales/en-US.js" />
+        <option value="$PROJECT_DIR$/src/pages/Login/locales/zh-CN.js" />
+        <option value="$PROJECT_DIR$/src/pages/Login/locales/en-US.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Login/locales/zh-CN.js.map" />
+        <option value="$PROJECT_DIR$/src/components/HelloWorld/locales/en-US.js" />
+        <option value="$PROJECT_DIR$/src/components/HelloWorld/locales/zh-CN.js" />
+        <option value="$PROJECT_DIR$/src/components/HelloWorld/locales/en-US.js.map" />
+        <option value="$PROJECT_DIR$/src/components/HelloWorld/locales/zh-CN.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainRenew/locales/en-US.js" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainRenew/locales/zh-CN.js" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainRenew/locales/en-US.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainRenew/locales/zh-CN.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainCreate/locales/en-US.js" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainCreate/locales/zh-CN.js" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainCreate/locales/en-US.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainCreate/locales/zh-CN.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainManage/locales/en-US.js" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainManage/locales/zh-CN.js" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainManage/locales/en-US.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Domain/DomainManage/locales/zh-CN.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Exception/403/locales/en-US.js" />
+        <option value="$PROJECT_DIR$/src/pages/Exception/403/locales/zh-CN.js" />
+        <option value="$PROJECT_DIR$/src/pages/Exception/403/locales/en-US.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Exception/403/locales/zh-CN.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Exception/404/locales/en-US.js" />
+        <option value="$PROJECT_DIR$/src/pages/Exception/404/locales/zh-CN.js" />
+        <option value="$PROJECT_DIR$/src/pages/Exception/404/locales/en-US.js.map" />
+        <option value="$PROJECT_DIR$/src/pages/Exception/404/locales/zh-CN.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1424" y="93" key="FileChooserDialogImpl" timestamp="1632461188478">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1424" y="93" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1632461188478" />
+    <state width="1510" height="336" key="GridCell.Tab.0.bottom" timestamp="1632649494201">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="336" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1632649494201" />
+    <state width="1254" height="262" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1536.824@0.0.1280.680" timestamp="1632474464232" />
+    <state width="1254" height="261" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1632641822317" />
+    <state width="1510" height="336" key="GridCell.Tab.0.center" timestamp="1632649494201">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="336" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1632649494201" />
+    <state width="1254" height="262" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1536.824@0.0.1280.680" timestamp="1632474464232" />
+    <state width="1254" height="261" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1632641822317" />
+    <state width="1510" height="336" key="GridCell.Tab.0.left" timestamp="1632649494201">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="336" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1632649494201" />
+    <state width="1254" height="262" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1536.824@0.0.1280.680" timestamp="1632474464232" />
+    <state width="1254" height="261" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1632641822317" />
+    <state width="1510" height="336" key="GridCell.Tab.0.right" timestamp="1632649494201">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="336" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1632649494201" />
+    <state width="1254" height="262" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1536.824@0.0.1280.680" timestamp="1632474464232" />
+    <state width="1254" height="261" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1632641822317" />
+    <state x="-1521" y="87" width="738" height="650" key="find.popup" timestamp="1632643357359">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1521" y="87" width="738" height="650" key="find.popup/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1632643357359" />
+    <state x="333" y="30" width="718" height="650" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1632641974972" />
+  </component>
+</project>
